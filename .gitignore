@@ -33,3 +33,4 @@ go.work.sum
 
 #executable file
 pokedexcli
+repl.log
